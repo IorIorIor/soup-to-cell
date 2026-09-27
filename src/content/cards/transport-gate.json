@@ -1,0 +1,15 @@
+{
+  "id": "transport-gate",
+  "name": "Nutrient gate",
+  "oneLine": "A protein door in the membrane that lets food in.",
+  "howItWorks": "The membrane blocks most food molecules. Gate proteins span it and pass specific molecules across. More gates, more food.",
+  "deeper": "Many gates spend energy to pull food in against the flow. The minimal cell relies on its gates because it cannot make many nutrients itself.",
+  "realSize": "about 5 to 10 nm",
+  "sizeComparison": "a 10,000th the width of a hair",
+  "status": "established",
+  "simplification": "One gate type stands in for dozens of real ones.",
+  "relatedIds": [
+    "bilayer",
+    "atp"
+  ]
+}

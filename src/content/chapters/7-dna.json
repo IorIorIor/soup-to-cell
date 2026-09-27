@@ -1,0 +1,20 @@
+{
+  "id": "dna",
+  "number": 7,
+  "title": "DNA: the archive",
+  "tagline": "The message moves into safe storage.",
+  "viewWidthMeters": 1e-7,
+  "hypothesis": false,
+  "realDuration": "real copying: dozens of letters per second",
+  "guidance": [
+    "Switch a gene off and see what stops."
+  ],
+  "objects": [
+    "dna",
+    "gene",
+    "promoter",
+    "polymerase",
+    "mrna"
+  ],
+  "sliders": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "soup",
+  "number": 0,
+  "title": "The soup",
+  "tagline": "A warm pool on the young Earth.",
+  "viewWidthMeters": 2e-8,
+  "hypothesis": true,
+  "realDuration": "real chemistry: thousands to millions of years",
+  "guidance": [
+    "Tap anything drifting in the water to see what it is.",
+    "Turn up the heat and watch building blocks appear. Then push it too far."
+  ],
+  "objects": [
+    "water",
+    "salt",
+    "nucleotide",
+    "amino-acid",
+    "fatty-acid"
+  ],
+  "sliders": [
+    {
+      "id": "temperature",
+      "label": "Temperature",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "°C"
+    },
+    {
+      "id": "uv",
+      "label": "UV light",
+      "min": 0,
+      "max": 1,
+      "step": 0.05,
+      "unit": ""
+    },
+    {
+      "id": "minerals",
+      "label": "Mineral surfaces",
+      "min": 0,
+      "max": 1,
+      "step": 0.05,
+      "unit": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "promoter",
+  "name": "Promoter",
+  "oneLine": "The on/off switch in front of a gene.",
+  "howItWorks": "The promoter is a short run of letters the polymerase recognises. Where it binds, copying starts. Block the promoter and the gene goes silent.",
+  "deeper": "Bacterial promoters have two short signal boxes. Proteins that sit on or near them turn genes up or down.",
+  "realSize": "about 15 nm of DNA",
+  "sizeComparison": "a 7,000th the width of a hair",
+  "status": "established",
+  "simplification": "Switches are shown as simple toggles. Real control is a dimmer, not on/off.",
+  "relatedIds": [
+    "gene",
+    "polymerase"
+  ]
+}

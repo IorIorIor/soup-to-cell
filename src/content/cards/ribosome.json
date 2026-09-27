@@ -1,0 +1,17 @@
+{
+  "id": "ribosome",
+  "name": "Ribosome",
+  "oneLine": "The machine that reads a gene’s message and builds a protein.",
+  "howItWorks": "The ribosome grips an mRNA and reads three letters at a time. For each triplet, a matching tRNA brings an amino acid. The ribosome links them into a chain.",
+  "deeper": "The working heart of the ribosome is RNA, not protein. That is strong evidence RNA came first. The 2009 Nobel Prize went for mapping its structure.",
+  "realSize": "about 25 nm",
+  "sizeComparison": "a 4,000th the width of a hair",
+  "status": "established",
+  "simplification": "Real ribosomes have about 50 proteins and three RNAs; we show a simple two-part shape.",
+  "relatedIds": [
+    "mrna",
+    "trna",
+    "codon",
+    "protein"
+  ]
+}

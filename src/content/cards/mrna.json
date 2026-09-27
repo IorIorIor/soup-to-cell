@@ -1,0 +1,16 @@
+{
+  "id": "mrna",
+  "name": "mRNA",
+  "oneLine": "A working copy of one gene, sent to the ribosomes.",
+  "howItWorks": "A gene is copied from DNA into mRNA. The ribosome reads it from start to stop. Then it is broken down, so the cell only makes what is needed now.",
+  "deeper": "In bacteria an mRNA lasts only minutes. Ribosomes can start reading it before the copy is even finished.",
+  "realSize": "hundreds of nm long",
+  "sizeComparison": "a 300th the width of a hair",
+  "status": "established",
+  "simplification": "We show short messages; real ones are a thousand letters or more.",
+  "relatedIds": [
+    "codon",
+    "ribosome",
+    "gene"
+  ]
+}

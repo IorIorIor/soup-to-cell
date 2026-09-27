@@ -1,0 +1,15 @@
+{
+  "id": "protein",
+  "name": "Protein",
+  "oneLine": "A folded chain of amino acids. The cell’s workers.",
+  "howItWorks": "The order of amino acids decides how the chain folds. The fold decides the job: cutting, carrying, building or gating. A wrong amino acid can ruin the fold.",
+  "deeper": "A typical bacterial protein is about 300 amino acids long. Some fold on their own; others need helper proteins.",
+  "realSize": "about 3 to 10 nm",
+  "sizeComparison": "a 20,000th the width of a hair",
+  "status": "established",
+  "simplification": "Proteins are drawn as smooth blobs, tinted by job.",
+  "relatedIds": [
+    "amino-acid",
+    "ribosome"
+  ]
+}

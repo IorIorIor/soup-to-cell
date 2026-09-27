@@ -1,0 +1,16 @@
+{
+  "id": "protocell",
+  "name": "Protocell",
+  "oneLine": "A bubble with copying RNA inside. Not quite alive, but close.",
+  "howItWorks": "The bubble keeps the RNA and its copies together. Bubbles whose RNA copies faster grow and split faster. Over time, they take over.",
+  "deeper": "No one has built a protocell that grows, copies and divides on its own. Labs have shown each step separately.",
+  "realSize": "about 1 to 10 µm",
+  "sizeComparison": "a 10th to 100th the width of a hair",
+  "status": "likely",
+  "simplification": "Races here take minutes. Real ones would take many generations.",
+  "relatedIds": [
+    "vesicle",
+    "replicator",
+    "copying-error"
+  ]
+}

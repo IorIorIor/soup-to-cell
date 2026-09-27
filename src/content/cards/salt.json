@@ -1,0 +1,15 @@
+{
+  "id": "salt",
+  "name": "Salt",
+  "oneLine": "Charged atoms dissolved in the water, like sodium and chloride.",
+  "howItWorks": "Salt splits into charged atoms in water. They crowd around anything with an opposite charge. Too much salt pulls water out of bubbles and cells.",
+  "deeper": "Early oceans and pools were salty, but by how much is debated. Some fatty-acid bubbles fall apart in seawater-level salt, one reason warm freshwater pools are a popular setting.",
+  "realSize": "about 0.2 nm per ion",
+  "sizeComparison": "a 500,000th the width of a hair",
+  "status": "established",
+  "simplification": "Ions are drawn as dots. Colours are not real.",
+  "relatedIds": [
+    "water",
+    "vesicle"
+  ]
+}

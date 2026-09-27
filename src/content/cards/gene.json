@@ -1,0 +1,16 @@
+{
+  "id": "gene",
+  "name": "Gene",
+  "oneLine": "One stretch of DNA that holds the recipe for one product.",
+  "howItWorks": "A gene starts after a promoter and ends at a stop signal. The polymerase copies it into mRNA. Change the gene and you change the protein.",
+  "deeper": "The minimal cell JCVI-syn3.0 has 473 genes. When it was built, the job of about a third of them was unknown.",
+  "realSize": "about 300 nm of DNA",
+  "sizeComparison": "a 300th the width of a hair",
+  "status": "established",
+  "simplification": "Genes are drawn as coloured bands. Real DNA looks the same all along.",
+  "relatedIds": [
+    "dna",
+    "promoter",
+    "mrna"
+  ]
+}

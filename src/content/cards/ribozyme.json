@@ -1,0 +1,15 @@
+{
+  "id": "ribozyme",
+  "name": "Ribozyme",
+  "oneLine": "An RNA that works like a tool. This one cuts other RNA.",
+  "howItWorks": "The hammerhead ribozyme folds into a three-armed shape. It grabs a target strand by matching letters. Then it bends the backbone until it snaps.",
+  "deeper": "Thomas Cech and Sidney Altman won the 1989 Nobel Prize for finding RNA that speeds up reactions. The hammerhead is found in plants, animals and viruses.",
+  "realSize": "about 5 nm",
+  "sizeComparison": "a 20,000th the width of a hair",
+  "status": "established",
+  "simplification": "The cut happens in slow motion. Real cuts take a fraction of a second.",
+  "relatedIds": [
+    "rna-hairpin",
+    "replicator"
+  ]
+}

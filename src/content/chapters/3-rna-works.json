@@ -1,0 +1,28 @@
+{
+  "id": "rna-works",
+  "number": 3,
+  "title": "RNA that works",
+  "tagline": "A folded strand becomes a tool.",
+  "viewWidthMeters": 3e-8,
+  "hypothesis": true,
+  "realDuration": "real cut: under a second; real copy: hours",
+  "guidance": [
+    "Watch the ribozyme cut its target.",
+    "Change the copying error rate."
+  ],
+  "objects": [
+    "ribozyme",
+    "replicator",
+    "copying-error"
+  ],
+  "sliders": [
+    {
+      "id": "error-rate",
+      "label": "Copying errors",
+      "min": 0,
+      "max": 0.3,
+      "step": 0.01,
+      "unit": ""
+    }
+  ]
+}

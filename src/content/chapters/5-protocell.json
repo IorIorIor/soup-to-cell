@@ -1,0 +1,19 @@
+{
+  "id": "protocell",
+  "number": 5,
+  "title": "The protocell",
+  "tagline": "Bubbles with RNA inside start to race.",
+  "viewWidthMeters": 0.00002,
+  "hypothesis": true,
+  "realDuration": "real race: many generations",
+  "guidance": [
+    "Tap a protocell to see its RNA.",
+    "Drop a mutant into one bubble."
+  ],
+  "objects": [
+    "protocell",
+    "vesicle",
+    "rna-strand"
+  ],
+  "sliders": []
+}

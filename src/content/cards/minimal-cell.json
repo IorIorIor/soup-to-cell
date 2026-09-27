@@ -1,0 +1,18 @@
+{
+  "id": "minimal-cell",
+  "name": "Minimal cell",
+  "oneLine": "The simplest known free-living cell, built in a lab in 2016.",
+  "howItWorks": "It runs one loop: take in food, make energy, build parts, copy DNA, split. Every part you have met so far is inside. Remove one and the loop breaks.",
+  "deeper": "JCVI-syn3.0 was made by stripping a bacterium’s genome down to 473 genes (Hutchison et al., 2016). It divides about every three hours.",
+  "realSize": "about 400 nm",
+  "sizeComparison": "a 250th the width of a hair",
+  "status": "established",
+  "simplification": "We show a few hundred molecules. The real cell holds millions.",
+  "relatedIds": [
+    "ribosome",
+    "dna",
+    "bilayer",
+    "transport-gate",
+    "atp"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "base-pair",
+  "name": "Base pair",
+  "oneLine": "Two letters that fit together: A with U, G with C.",
+  "howItWorks": "Matching bases stick through weak bonds, like tiny magnets. G and C hold tighter than A and U. Heat shakes these bonds apart.",
+  "deeper": "G–C pairs share three hydrogen bonds, A–U pairs two. Stacking between neighbouring pairs adds much of the real stability.",
+  "realSize": "about 2 nm across",
+  "sizeComparison": "a 50,000th the width of a hair",
+  "status": "established",
+  "simplification": "We only show the standard pairs. Real RNA also makes looser G–U pairs.",
+  "relatedIds": [
+    "nucleotide",
+    "rna-hairpin"
+  ]
+}

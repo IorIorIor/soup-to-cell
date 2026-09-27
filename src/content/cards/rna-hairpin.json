@@ -1,0 +1,16 @@
+{
+  "id": "rna-hairpin",
+  "name": "Hairpin fold",
+  "oneLine": "A strand folded back on itself: a paired stem and an open loop.",
+  "howItWorks": "When two stretches of one strand match, they zip together into a stem. The unmatched letters between them bulge out as a loop.",
+  "deeper": "Hairpins are the most common RNA shape. Real folding is predicted by tallying the energy of every pair and stack.",
+  "realSize": "a few nm",
+  "sizeComparison": "a 20,000th the width of a hair",
+  "status": "established",
+  "simplification": "Our fold uses a simple pairing rule, not a full energy model.",
+  "relatedIds": [
+    "base-pair",
+    "rna-strand",
+    "ribozyme"
+  ]
+}

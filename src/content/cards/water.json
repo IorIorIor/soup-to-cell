@@ -1,0 +1,15 @@
+{
+  "id": "water",
+  "name": "Water",
+  "oneLine": "The liquid everything else floats in. Life as we know it needs it.",
+  "howItWorks": "Water molecules are tiny and always moving. They pull on each other and on anything charged. That pull makes oily things clump together and lets charged things dissolve.",
+  "deeper": "A drop of water holds more molecules than there are stars in the observable universe. Water pushing oily tails together is what makes membranes form on their own.",
+  "realSize": "about 0.3 nm",
+  "sizeComparison": "a 300,000th the width of a hair",
+  "status": "established",
+  "simplification": "We show only a few water molecules, as haze. Real water is packed shoulder to shoulder.",
+  "relatedIds": [
+    "salt",
+    "fatty-acid"
+  ]
+}

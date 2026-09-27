@@ -1,0 +1,16 @@
+{
+  "id": "nucleotide",
+  "name": "Nucleotide",
+  "oneLine": "A single letter of RNA: a sugar, a phosphate and a base.",
+  "howItWorks": "Every nucleotide has the same sugar and phosphate. What differs is the base: A, U, G or C. Sugars and phosphates link up into a chain, and the bases stick out like letters.",
+  "deeper": "Chemists have made nucleotides from simple early-Earth ingredients, notably Powner and Sutherland in 2009. Whether that happened the same way in nature is still a leading hypothesis, not a fact.",
+  "realSize": "about 1 nm",
+  "sizeComparison": "a 100,000th the width of a hair",
+  "status": "likely",
+  "simplification": "Each letter gets its own colour and shape. Real bases are all colourless.",
+  "relatedIds": [
+    "rna-strand",
+    "base-pair",
+    "clay"
+  ]
+}

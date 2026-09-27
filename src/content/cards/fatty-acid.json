@@ -1,0 +1,16 @@
+{
+  "id": "fatty-acid",
+  "name": "Fatty acid",
+  "oneLine": "A soap-like molecule with a water-loving head and an oily tail.",
+  "howItWorks": "The head likes water and the tail avoids it. In water, many fatty acids hide their tails together. They form sheets and bubbles with no help.",
+  "deeper": "Fatty acids are simpler than the lipids in our own cells. Their membranes leak more, which may have helped early cells take in food.",
+  "realSize": "about 2 nm long",
+  "sizeComparison": "a 50,000th the width of a hair",
+  "status": "established",
+  "simplification": "Real membranes hold millions of these; we show a few hundred.",
+  "relatedIds": [
+    "bilayer",
+    "vesicle",
+    "water"
+  ]
+}

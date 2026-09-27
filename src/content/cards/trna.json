@@ -1,0 +1,16 @@
+{
+  "id": "trna",
+  "name": "tRNA",
+  "oneLine": "An adapter: one end reads a codon, the other carries an amino acid.",
+  "howItWorks": "Each tRNA has three letters that match one codon. On its other end sits the matching amino acid. It delivers that amino acid to the ribosome.",
+  "deeper": "tRNA is about 76 letters folded into an L shape. Dedicated enzymes load each one with the right amino acid.",
+  "realSize": "about 7 nm",
+  "sizeComparison": "a 15,000th the width of a hair",
+  "status": "established",
+  "simplification": "Each tRNA type gets one colour. Real ones look nearly identical.",
+  "relatedIds": [
+    "codon",
+    "amino-acid",
+    "ribosome"
+  ]
+}

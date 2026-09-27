@@ -1,0 +1,15 @@
+{
+  "id": "atp",
+  "name": "ATP (energy)",
+  "oneLine": "The cell’s energy currency, shown as gold sparks.",
+  "howItWorks": "Food is broken down to charge up ATP. Machines spend ATP to do work, like linking amino acids. No ATP, no work.",
+  "deeper": "A growing bacterium spends millions of ATP every second. Most of it goes into building proteins.",
+  "realSize": "about 1 nm",
+  "sizeComparison": "a 100,000th the width of a hair",
+  "status": "established",
+  "simplification": "Sparks are symbolic. ATP does not glow.",
+  "relatedIds": [
+    "transport-gate",
+    "ribosome"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "amino-acid",
+  "name": "Amino acid",
+  "oneLine": "A building block of proteins. Life uses twenty kinds.",
+  "howItWorks": "Each amino acid has the same backbone and a different side piece. The side piece can be oily, charged or small. Strung together, they fold into proteins.",
+  "deeper": "In 1952 Miller and Urey sparked a gas mixture and made amino acids in a flask. Amino acids have also been found in meteorites.",
+  "realSize": "about 0.5 to 1 nm",
+  "sizeComparison": "a 100,000th the width of a hair",
+  "status": "established",
+  "simplification": "We show a handful of shapes for twenty real kinds.",
+  "relatedIds": [
+    "protein",
+    "trna"
+  ]
+}

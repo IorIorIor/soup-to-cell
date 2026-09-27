@@ -1,0 +1,15 @@
+{
+  "id": "replicator",
+  "name": "RNA copier",
+  "oneLine": "An RNA that copies other RNA, one letter at a time.",
+  "howItWorks": "The copier reads a template strand. It lines up matching letters and links them. The new strand is a mirror copy of the old one.",
+  "deeper": "Labs have evolved ribozymes that copy long RNA strands, but none yet copies itself fully. Whether such a copier ever arose in nature is unknown.",
+  "realSize": "about 10 nm",
+  "sizeComparison": "a 10,000th the width of a hair",
+  "status": "open-question",
+  "simplification": "Our copier works far better than any known real one.",
+  "relatedIds": [
+    "ribozyme",
+    "copying-error"
+  ]
+}

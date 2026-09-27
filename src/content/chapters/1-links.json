@@ -1,0 +1,18 @@
+{
+  "id": "links",
+  "number": 1,
+  "title": "Links",
+  "tagline": "Letters snap into a chain.",
+  "viewWidthMeters": 3e-8,
+  "hypothesis": true,
+  "realDuration": "real linking: hours to days per chain",
+  "guidance": [
+    "Drag four letters onto the clay."
+  ],
+  "objects": [
+    "nucleotide",
+    "clay",
+    "rna-strand"
+  ],
+  "sliders": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dna",
+  "name": "DNA",
+  "oneLine": "The cell’s archive: a double strand that stores every gene.",
+  "howItWorks": "DNA is like RNA, but with two strands wound together. Each strand backs up the other. That makes it more stable, so it is better for long-term storage.",
+  "deeper": "In the minimal cell the DNA is one loop of about 531,000 letter pairs. Stretched out, it would be about 180 µm long, much wider than the cell.",
+  "realSize": "2 nm wide",
+  "sizeComparison": "a 50,000th the width of a hair",
+  "status": "established",
+  "simplification": "The loop is shown short and uncoiled. Real DNA is tightly packed.",
+  "relatedIds": [
+    "gene",
+    "polymerase"
+  ]
+}

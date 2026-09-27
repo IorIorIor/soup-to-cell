@@ -1,0 +1,27 @@
+{
+  "id": "folding",
+  "number": 2,
+  "title": "Folding",
+  "tagline": "Matching letters zip together.",
+  "viewWidthMeters": 2e-8,
+  "hypothesis": true,
+  "realDuration": "real folding: millionths of a second",
+  "guidance": [
+    "Watch the strand fold. Then change a letter."
+  ],
+  "objects": [
+    "rna-hairpin",
+    "base-pair",
+    "rna-strand"
+  ],
+  "sliders": [
+    {
+      "id": "temperature",
+      "label": "Temperature",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "°C"
+    }
+  ]
+}

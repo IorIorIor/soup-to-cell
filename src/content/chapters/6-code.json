@@ -1,0 +1,22 @@
+{
+  "id": "code",
+  "number": 6,
+  "title": "The code",
+  "tagline": "A machine turns letters into protein.",
+  "viewWidthMeters": 6e-8,
+  "hypothesis": false,
+  "realDuration": "real protein: about 15 amino acids per second",
+  "guidance": [
+    "Watch the ribosome read the message.",
+    "Change a codon."
+  ],
+  "objects": [
+    "ribosome",
+    "mrna",
+    "trna",
+    "codon",
+    "amino-acid",
+    "protein"
+  ],
+  "sliders": []
+}

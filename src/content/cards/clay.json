@@ -1,0 +1,15 @@
+{
+  "id": "clay",
+  "name": "Clay surface",
+  "oneLine": "A mineral surface that holds nucleotides still so they can link.",
+  "howItWorks": "Clay sheets carry a charge that grabs nucleotides. Held side by side, the letters join into short chains. Floating free, they rarely would.",
+  "deeper": "In the 1990s and 2000s James Ferris showed a clay called montmorillonite links activated nucleotides into chains up to about 50 letters.",
+  "realSize": "sheets about 1 nm thick",
+  "sizeComparison": "a 100,000th the width of a hair",
+  "status": "likely",
+  "simplification": "The chains snap on much faster than in real life.",
+  "relatedIds": [
+    "nucleotide",
+    "rna-strand"
+  ]
+}

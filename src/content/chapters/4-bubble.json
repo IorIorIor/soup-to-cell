@@ -1,0 +1,35 @@
+{
+  "id": "bubble",
+  "number": 4,
+  "title": "The bubble",
+  "tagline": "Soap-like molecules build a skin.",
+  "viewWidthMeters": 4e-7,
+  "hypothesis": true,
+  "realDuration": "real growth and split: minutes to hours",
+  "guidance": [
+    "Add fatty acids and watch the bubble grow."
+  ],
+  "objects": [
+    "fatty-acid",
+    "bilayer",
+    "vesicle"
+  ],
+  "sliders": [
+    {
+      "id": "lipids",
+      "label": "Fatty acid supply",
+      "min": 0,
+      "max": 1,
+      "step": 0.05,
+      "unit": ""
+    },
+    {
+      "id": "salt",
+      "label": "Salt",
+      "min": 0,
+      "max": 1,
+      "step": 0.05,
+      "unit": ""
+    }
+  ]
+}

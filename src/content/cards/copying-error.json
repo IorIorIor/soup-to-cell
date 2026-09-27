@@ -1,0 +1,15 @@
+{
+  "id": "copying-error",
+  "name": "Copying error",
+  "oneLine": "A wrong letter slipped into a copy. It is how new variants appear.",
+  "howItWorks": "No copier is perfect. A few mistakes create variety to choose from. Too many and the message dissolves into noise.",
+  "deeper": "Manfred Eigen described this limit in 1971 as the error threshold. The longer the message, the more accurate copying must be.",
+  "realSize": "one letter, about 1 nm",
+  "sizeComparison": "a 100,000th the width of a hair",
+  "status": "established",
+  "simplification": "Error rates here are exaggerated so you can see them.",
+  "relatedIds": [
+    "replicator",
+    "protocell"
+  ]
+}

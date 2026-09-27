@@ -1,0 +1,16 @@
+{
+  "id": "vesicle",
+  "name": "Bubble (vesicle)",
+  "oneLine": "A hollow ball of double layer that traps water inside.",
+  "howItWorks": "A flat sheet has exposed edges, so it curls up and seals itself into a ball. Feed it more fatty acids and it grows. Gentle shaking can split it in two.",
+  "deeper": "Jack Szostak’s lab showed fatty-acid vesicles grow into long threads and split under gentle flow, with no machinery at all.",
+  "realSize": "100 nm to several µm",
+  "sizeComparison": "up to a 20th the width of a hair",
+  "status": "established",
+  "simplification": "Growth and splitting are sped up hugely.",
+  "relatedIds": [
+    "bilayer",
+    "protocell",
+    "salt"
+  ]
+}

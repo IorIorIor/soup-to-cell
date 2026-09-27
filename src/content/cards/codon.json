@@ -1,0 +1,15 @@
+{
+  "id": "codon",
+  "name": "Codon",
+  "oneLine": "Three letters in a row that stand for one amino acid.",
+  "howItWorks": "Four letters in groups of three give 64 combinations. Most name one of the twenty amino acids. Three mean stop.",
+  "deeper": "The genetic code is nearly the same in every living thing. Why this code, and how it arose, is still an open question.",
+  "realSize": "about 1 nm",
+  "sizeComparison": "a 100,000th the width of a hair",
+  "status": "established",
+  "simplification": "We highlight codons with gaps between them. Real mRNA has no gaps.",
+  "relatedIds": [
+    "mrna",
+    "trna"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bilayer",
+  "name": "Double layer",
+  "oneLine": "Two sheets of fatty acids, tails facing in. The skin of every cell.",
+  "howItWorks": "Heads face the water on both sides. Tails hide in the middle. The oily middle stops most large or charged molecules from passing through.",
+  "deeper": "Every known cell is wrapped in a lipid double layer. Fatty-acid layers flip and swap molecules much faster than modern cell membranes.",
+  "realSize": "about 4 nm thick",
+  "sizeComparison": "a 25,000th the width of a hair",
+  "status": "established",
+  "simplification": "The layer is drawn much thicker than scale so you can see it.",
+  "relatedIds": [
+    "fatty-acid",
+    "vesicle"
+  ]
+}

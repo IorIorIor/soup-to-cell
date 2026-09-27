@@ -1,0 +1,16 @@
+{
+  "id": "rna-strand",
+  "name": "RNA strand",
+  "oneLine": "A chain of letters that can store a message and also do work.",
+  "howItWorks": "RNA is a single chain of nucleotides. The order of letters is the message. The chain can also fold into shapes that act like tools.",
+  "deeper": "The idea that RNA did both jobs before DNA and proteins existed is called the RNA world. It is the leading hypothesis for early life, not a proven story.",
+  "realSize": "a few to tens of nm long",
+  "sizeComparison": "a 10,000th the width of a hair",
+  "status": "established",
+  "simplification": "Strands here are stiffer and shorter than real ones.",
+  "relatedIds": [
+    "nucleotide",
+    "rna-hairpin",
+    "ribozyme"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "cell",
+  "number": 8,
+  "title": "The minimal cell",
+  "tagline": "Eat, grow, copy, split.",
+  "viewWidthMeters": 6e-7,
+  "hypothesis": false,
+  "realDuration": "real division: about 3 hours",
+  "guidance": [
+    "Everything is tappable. Remove something and see what breaks."
+  ],
+  "objects": [
+    "minimal-cell",
+    "bilayer",
+    "dna",
+    "ribosome",
+    "protein",
+    "transport-gate",
+    "atp"
+  ],
+  "sliders": [
+    {
+      "id": "temperature",
+      "label": "Temperature",
+      "min": 20,
+      "max": 60,
+      "step": 1,
+      "unit": "°C"
+    },
+    {
+      "id": "nutrients",
+      "label": "Nutrients",
+      "min": 0,
+      "max": 1,
+      "step": 0.05,
+      "unit": ""
+    },
+    {
+      "id": "salt",
+      "label": "Salt",
+      "min": 0,
+      "max": 1,
+      "step": 0.05,
+      "unit": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "polymerase",
+  "name": "Polymerase",
+  "oneLine": "The protein that reads DNA and writes a matching mRNA.",
+  "howItWorks": "The polymerase lands on a promoter and unzips a small patch of DNA. It slides along, building mRNA letter by letter. At the end signal it lets go.",
+  "deeper": "Bacterial RNA polymerase adds dozens of letters per second. A different enzyme copies the whole DNA before the cell divides.",
+  "realSize": "about 15 nm",
+  "sizeComparison": "a 7,000th the width of a hair",
+  "status": "established",
+  "simplification": "One shape stands in for several different real enzymes.",
+  "relatedIds": [
+    "dna",
+    "gene",
+    "mrna"
+  ]
+}
